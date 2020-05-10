@@ -10,22 +10,22 @@
   min-height: 600px;
   max-height: 756px;
   background-color: #f2f2f2;
+
 }
 
-.header__logo {
-  width:154px;
-  height: 31px;
+.logo {
   position: absolute;
   top: 30px;
   left: 64px;
   z-index: 1;
 }
 
-.header_logo-image{
-  background-image: url(first-project\web_project_1\images\logo_place_header.png)
+.logo_place_header {
+  width:154px;
+  height: 31px;
 }
 
-.header__title{
+.header__title {
   width: 730px;
   align-items: center;
   margin-left: 64px;
@@ -34,7 +34,7 @@
   font-weight: bold;
 }
 
-.header__subtitle{
+.header__subtitle {
   width: 388px;
   position: absolute;
   left: 64px;
@@ -45,16 +45,12 @@
   font-weight: normal;
 }
 
-.header__main-illustration{
+.header__main-illustration {
   width: 765px;
   height: 608px;
   position: absolute;
   right: 0px;
   bottom: 0px;
-}
-
-.header_header-image{
-  background-image: url(first-project\web_project_1\images\header-image.png)
 }
 
 .header__square-pic {
