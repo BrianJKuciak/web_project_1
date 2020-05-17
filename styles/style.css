@@ -16,14 +16,11 @@
   z-index: -2;
 }
 
-.logo {
+.logo_place_header {
   position: absolute;
   top: 30px;
   left: 64px;
   z-index: 1;
-}
-
-.logo_place_header {
   width: 154px;
   height: 31px;
 }
